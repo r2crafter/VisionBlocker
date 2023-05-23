@@ -10,6 +10,10 @@ This project is entirely written in ![Python](https://img.shields.io/badge/-Pyth
 
 - Run the program and select which software you'd like to block
 
+### IF USING THE INVISIBLE BUILD:
+
+Please note that when using the invisible build there will be no text when the program is running
+
 ### NOTE
 
 _blocking notepad is a debug feature **(intended for the developer)** that can be used to test if the program is working_
