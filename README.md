@@ -13,3 +13,7 @@ This project is entirely written in ![Python](https://img.shields.io/badge/-Pyth
 ### NOTE
 
 _blocking notepad is a debug feature **(intended for the developer)** that can be used to test if the program is working_
+
+### IF YOU'D LIKE ANOTHER PROGRAM ADDED PLEASE CONTACT MY DISCORD BELOW
+
+Switch#3252
