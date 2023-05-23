@@ -3,7 +3,7 @@ import time
 import colorama
 from colorama import Fore, Back, Style
 colorama.init(autoreset = True)
-
+TIME = 0.5
 
 #defines the function for quickly making a new line (i'm lazy)
 def newline():
@@ -20,14 +20,14 @@ def closeCW():
         os.system('taskkill /im ClassroomWindows.exe')
         os.system('cls')
         displayrunninglogo()
-        time.sleep(1)
+        time.sleep(TIME)
 # defining function for closing ClassroomWindows program
 def closeDebug():
     while True:
         os.system('taskkill /im Notepad.exe')
         os.system('cls')
         displayrunninglogo()
-        time.sleep(1)
+        time.sleep(TIME)
 
 
 #displays the visionblocker is running logo
