@@ -1,4 +1,4 @@
-This project is entirely written in ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) and is open sourced but compiled to ![EXE](https://img.shields.io/badge/EXE-.exe-brightgreen) so that anyone with a windows pc/laptop can use it
+This project is entirely written in ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) and compiled to ![EXE](https://img.shields.io/badge/EXE-.exe-brightgreen) so that anyone with a windows pc/laptop can use it
 
 ### USAGE:
 
